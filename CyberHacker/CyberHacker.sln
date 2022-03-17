@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CyberHacker", "CyberHacker.csproj", "{D4B15488-C39F-4E52-B83F-C6B5AECE039D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2CB95DF2-33DF-4BA0-970B-0EDB83280364}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HookNet", "..\HookNet\HookNet.csproj", "{BB7C5E49-1047-46D4-9A61-4BDB1253A967}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4B15488-C39F-4E52-B83F-C6B5AECE039D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4B15488-C39F-4E52-B83F-C6B5AECE039D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4B15488-C39F-4E52-B83F-C6B5AECE039D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4B15488-C39F-4E52-B83F-C6B5AECE039D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB7C5E49-1047-46D4-9A61-4BDB1253A967}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB7C5E49-1047-46D4-9A61-4BDB1253A967}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB7C5E49-1047-46D4-9A61-4BDB1253A967}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB7C5E49-1047-46D4-9A61-4BDB1253A967}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD16D1D7-C7E4-40B4-8276-FDAD6CC40865}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,22 @@
+﻿[*.cs]
+
+# CA1305: Укажите IFormatProvider
+dotnet_diagnostic.CA1305.severity = none
+
+# CA1304: Укажите CultureInfo
+dotnet_diagnostic.CA1304.severity = none
+
+# Default severity for analyzer diagnostics with category 'Globalization'
+dotnet_analyzer_diagnostic.category-Globalization.severity = none
+
+# IDE0010: Добавить отсутствующие варианты
+dotnet_diagnostic.IDE0010.severity = none
+
+# CA2208: Правильно создавайте экземпляры исключений аргументов
+dotnet_diagnostic.CA2208.severity = none
+
+# IDE0072: Добавить отсутствующие варианты
+dotnet_diagnostic.IDE0072.severity = none
+
+# Default severity for all analyzer diagnostics
+dotnet_analyzer_diagnostic.severity = none

@@ -1,0 +1,13 @@
+D:\Visual Studio Repos\Cyber\HookNet\bin\Debug\netcoreapp3.1\HookNet.exe
+D:\Visual Studio Repos\Cyber\HookNet\bin\Debug\netcoreapp3.1\HookNet.deps.json
+D:\Visual Studio Repos\Cyber\HookNet\bin\Debug\netcoreapp3.1\HookNet.runtimeconfig.json
+D:\Visual Studio Repos\Cyber\HookNet\bin\Debug\netcoreapp3.1\HookNet.runtimeconfig.dev.json
+D:\Visual Studio Repos\Cyber\HookNet\bin\Debug\netcoreapp3.1\HookNet.dll
+D:\Visual Studio Repos\Cyber\HookNet\bin\Debug\netcoreapp3.1\HookNet.pdb
+D:\Visual Studio Repos\Cyber\HookNet\obj\Debug\netcoreapp3.1\HookNet.csprojAssemblyReference.cache
+D:\Visual Studio Repos\Cyber\HookNet\obj\Debug\netcoreapp3.1\HookNet.AssemblyInfoInputs.cache
+D:\Visual Studio Repos\Cyber\HookNet\obj\Debug\netcoreapp3.1\HookNet.AssemblyInfo.cs
+D:\Visual Studio Repos\Cyber\HookNet\obj\Debug\netcoreapp3.1\HookNet.csproj.CoreCompileInputs.cache
+D:\Visual Studio Repos\Cyber\HookNet\obj\Debug\netcoreapp3.1\HookNet.dll
+D:\Visual Studio Repos\Cyber\HookNet\obj\Debug\netcoreapp3.1\HookNet.pdb
+D:\Visual Studio Repos\Cyber\HookNet\obj\Debug\netcoreapp3.1\HookNet.genruntimeconfig.cache

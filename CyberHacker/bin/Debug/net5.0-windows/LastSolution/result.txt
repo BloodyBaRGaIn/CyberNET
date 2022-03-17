@@ -1,0 +1,26 @@
+Matrix recognition: 2,033 seconds
+Sequence recognition: 2,680 seconds
+Buffer recognition: 0,029 seconds
+Total recognition: 4,742 seconds
+Found 1 valid solution(s): 0,027 seconds
+Best solution:
+	weight 11
+	length 8
+	buffer 8
+
+1C   FF-1 7A   E9   7A   55   1C   
+
+55-4 55   BD   1C   1C-5 55   E9   
+
+55   FF   1C   7A   E9   1C   55   
+
+1C   55   55   BD   7A   FF   E9   
+
+BD   E9-8 7A   7A   FF   1C   FF   
+
+E9-3 1C-2 FF   7A   7A   7A   1C   
+
+55   55-7 7A   7A   FF-6 7A   E9   
+
+Bitmaps post-processing: 0,034 seconds
+

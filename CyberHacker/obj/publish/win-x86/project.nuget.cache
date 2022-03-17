@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "cmGHLt08pDZ+2hYbHt0+DT1OAIj8cN13tIRBnKorz8rAaagMWYi7DxIZ/CvZDvxHF1JUBw6WIxcpt8eIxBcNmQ==",
+  "success": true,
+  "projectFilePath": "D:\\repos\\CyberHacker\\CyberHacker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\ironocr\\2021.6.0\\ironocr.2021.6.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\system.drawing.common\\5.0.2\\system.drawing.common.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

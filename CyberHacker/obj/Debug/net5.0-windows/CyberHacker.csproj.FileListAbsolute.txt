@@ -1,0 +1,131 @@
+D:\repos\CyberHacher\bin\Debug\net5.0-windows\CyberHacker.exe
+D:\repos\CyberHacher\bin\Debug\net5.0-windows\CyberHacker.deps.json
+D:\repos\CyberHacher\bin\Debug\net5.0-windows\CyberHacker.runtimeconfig.json
+D:\repos\CyberHacher\bin\Debug\net5.0-windows\CyberHacker.runtimeconfig.dev.json
+D:\repos\CyberHacher\bin\Debug\net5.0-windows\CyberHacker.dll
+D:\repos\CyberHacher\bin\Debug\net5.0-windows\ref\CyberHacker.dll
+D:\repos\CyberHacher\bin\Debug\net5.0-windows\CyberHacker.pdb
+D:\repos\CyberHacher\bin\Debug\net5.0-windows\IronOcr.dll
+D:\repos\CyberHacher\bin\Debug\net5.0-windows\System.Drawing.Common.dll
+D:\repos\CyberHacher\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\repos\CyberHacher\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\repos\CyberHacher\bin\Debug\net5.0-windows\AutoItX3.Assembly.dll
+D:\repos\CyberHacher\bin\Debug\net5.0-windows\KeyHook.exe
+D:\repos\CyberHacher\bin\Debug\net5.0-windows\KeyHook.pdb
+D:\repos\CyberHacher\bin\Debug\net5.0-windows\KeyHook.exe.config
+D:\repos\CyberHacher\bin\Debug\net5.0-windows\AutoItX3.Assembly.xml
+D:\repos\CyberHacher\bin\Debug\net5.0-windows\Interop.AutoItX3Lib.dll
+D:\repos\CyberHacher\obj\Debug\net5.0-windows\CyberHacker.csproj.AssemblyReference.cache
+D:\repos\CyberHacher\obj\Debug\net5.0-windows\Interop.AutoItX3Lib.dll
+D:\repos\CyberHacher\obj\Debug\net5.0-windows\CyberHacker.csproj.ResolveComReference.cache
+D:\repos\CyberHacher\obj\Debug\net5.0-windows\CyberHacher.CyberHacker.resources
+D:\repos\CyberHacher\obj\Debug\net5.0-windows\CyberHacker.csproj.GenerateResource.cache
+D:\repos\CyberHacher\obj\Debug\net5.0-windows\CyberHacker.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\CyberHacher\obj\Debug\net5.0-windows\CyberHacker.AssemblyInfoInputs.cache
+D:\repos\CyberHacher\obj\Debug\net5.0-windows\CyberHacker.AssemblyInfo.cs
+D:\repos\CyberHacher\obj\Debug\net5.0-windows\CyberHacker.csproj.CoreCompileInputs.cache
+D:\repos\CyberHacher\obj\Debug\net5.0-windows\CyberHacker.csproj.CopyComplete
+D:\repos\CyberHacher\obj\Debug\net5.0-windows\CyberHacker.dll
+D:\repos\CyberHacher\obj\Debug\net5.0-windows\ref\CyberHacker.dll
+D:\repos\CyberHacher\obj\Debug\net5.0-windows\CyberHacker.pdb
+D:\repos\CyberHacher\obj\Debug\net5.0-windows\CyberHacker.genruntimeconfig.cache
+D:\repos\CyberHacher\obj\Debug\net5.0-windows\CyberHacker.CyberHacker.resources
+D:\repos\CyberHacker\obj\Debug\net5.0-windows\CyberHacker.csproj.AssemblyReference.cache
+D:\repos\CyberHacker\obj\Debug\net5.0-windows\CyberHacker.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\CyberHacker\obj\Debug\net5.0-windows\CyberHacker.AssemblyInfoInputs.cache
+D:\repos\CyberHacker\obj\Debug\net5.0-windows\CyberHacker.AssemblyInfo.cs
+D:\repos\CyberHacker\obj\Debug\net5.0-windows\CyberHacker.csproj.CoreCompileInputs.cache
+D:\repos\CyberHacker\obj\Debug\net5.0-windows\CyberHacker.dll
+D:\repos\CyberHacker\obj\Debug\net5.0-windows\ref\CyberHacker.dll
+D:\repos\CyberHacker\obj\Debug\net5.0-windows\CyberHacker.pdb
+D:\repos\CyberHacker\bin\Debug\net5.0-windows\CyberHacker.exe
+D:\repos\CyberHacker\bin\Debug\net5.0-windows\CyberHacker.deps.json
+D:\repos\CyberHacker\bin\Debug\net5.0-windows\CyberHacker.runtimeconfig.json
+D:\repos\CyberHacker\bin\Debug\net5.0-windows\CyberHacker.runtimeconfig.dev.json
+D:\repos\CyberHacker\bin\Debug\net5.0-windows\CyberHacker.dll
+D:\repos\CyberHacker\bin\Debug\net5.0-windows\ref\CyberHacker.dll
+D:\repos\CyberHacker\bin\Debug\net5.0-windows\CyberHacker.pdb
+D:\repos\CyberHacker\bin\Debug\net5.0-windows\AutoItX3.Assembly.dll
+D:\repos\CyberHacker\bin\Debug\net5.0-windows\KeyHook.exe
+D:\repos\CyberHacker\bin\Debug\net5.0-windows\KeyHook.pdb
+D:\repos\CyberHacker\bin\Debug\net5.0-windows\KeyHook.exe.config
+D:\repos\CyberHacker\bin\Debug\net5.0-windows\AutoItX3.Assembly.xml
+D:\repos\CyberHacker\obj\Debug\net5.0-windows\CyberHacker.csproj.CopyComplete
+D:\repos\CyberHacker\obj\Debug\net5.0-windows\CyberHacker.genruntimeconfig.cache
+D:\repos\CyberHacker\obj\Debug\net5.0-windows\CyberHacker.Properties.BufferResources.resources
+D:\repos\CyberHacker\obj\Debug\net5.0-windows\CyberHacker.Properties.MatrixResources.resources
+D:\repos\CyberHacker\obj\Debug\net5.0-windows\CyberHacker.Properties.SequenceResources.resources
+D:\repos\CyberHacker\obj\Debug\net5.0-windows\CyberHacker.csproj.GenerateResource.cache
+D:\repos\CyberHacker\obj\Debug\net5.0-windows\CyberHacker.Properties.DebugResources.resources
+D:\repos\CyberHacker\bin\Debug\net5.0-windows\Properties\BufferResources.resx
+D:\repos\CyberHacker\bin\Debug\net5.0-windows\Properties\DebugResources.resx
+D:\repos\CyberHacker\bin\Debug\net5.0-windows\Properties\MatrixResources.resx
+D:\repos\CyberHacker\bin\Debug\net5.0-windows\Properties\SequenceResources.resx
+D:\repos\CyberHacker\bin\Debug\net5.0-windows\AutoItX3.dll
+D:\Visual Studio Repos\Cyber\CyberHacker\obj\Debug\net5.0-windows\CyberHacker.dll
+D:\Visual Studio Repos\Cyber\CyberHacker\obj\Debug\net5.0-windows\ref\CyberHacker.dll
+D:\Visual Studio Repos\Cyber\CyberHacker\obj\Debug\net5.0-windows\CyberHacker.pdb
+D:\Visual Studio Repos\Cyber\CyberHacker\bin\Debug\net5.0-windows\AutoItX3.dll
+D:\Visual Studio Repos\Cyber\CyberHacker\bin\Debug\net5.0-windows\CyberHacker.exe
+D:\Visual Studio Repos\Cyber\CyberHacker\bin\Debug\net5.0-windows\Properties\BufferResources.resx
+D:\Visual Studio Repos\Cyber\CyberHacker\bin\Debug\net5.0-windows\Properties\DebugResources.resx
+D:\Visual Studio Repos\Cyber\CyberHacker\bin\Debug\net5.0-windows\Properties\MatrixResources.resx
+D:\Visual Studio Repos\Cyber\CyberHacker\bin\Debug\net5.0-windows\Properties\SequenceResources.resx
+D:\Visual Studio Repos\Cyber\CyberHacker\bin\Debug\net5.0-windows\CyberHacker.deps.json
+D:\Visual Studio Repos\Cyber\CyberHacker\bin\Debug\net5.0-windows\CyberHacker.runtimeconfig.json
+D:\Visual Studio Repos\Cyber\CyberHacker\bin\Debug\net5.0-windows\CyberHacker.runtimeconfig.dev.json
+D:\Visual Studio Repos\Cyber\CyberHacker\bin\Debug\net5.0-windows\CyberHacker.dll
+D:\Visual Studio Repos\Cyber\CyberHacker\bin\Debug\net5.0-windows\ref\CyberHacker.dll
+D:\Visual Studio Repos\Cyber\CyberHacker\bin\Debug\net5.0-windows\CyberHacker.pdb
+D:\Visual Studio Repos\Cyber\CyberHacker\bin\Debug\net5.0-windows\AutoItX3.Assembly.dll
+D:\Visual Studio Repos\Cyber\CyberHacker\bin\Debug\net5.0-windows\AutoItX3.Assembly.xml
+D:\Visual Studio Repos\Cyber\CyberHacker\obj\Debug\net5.0-windows\CyberHacker.csprojAssemblyReference.cache
+D:\Visual Studio Repos\Cyber\CyberHacker\obj\Debug\net5.0-windows\CyberHacker.Properties.BufferResources.resources
+D:\Visual Studio Repos\Cyber\CyberHacker\obj\Debug\net5.0-windows\CyberHacker.Properties.DebugResources.resources
+D:\Visual Studio Repos\Cyber\CyberHacker\obj\Debug\net5.0-windows\CyberHacker.Properties.MatrixResources.resources
+D:\Visual Studio Repos\Cyber\CyberHacker\obj\Debug\net5.0-windows\CyberHacker.Properties.SequenceResources.resources
+D:\Visual Studio Repos\Cyber\CyberHacker\obj\Debug\net5.0-windows\CyberHacker.csproj.GenerateResource.cache
+D:\Visual Studio Repos\Cyber\CyberHacker\obj\Debug\net5.0-windows\CyberHacker.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Repos\Cyber\CyberHacker\obj\Debug\net5.0-windows\CyberHacker.AssemblyInfoInputs.cache
+D:\Visual Studio Repos\Cyber\CyberHacker\obj\Debug\net5.0-windows\CyberHacker.AssemblyInfo.cs
+D:\Visual Studio Repos\Cyber\CyberHacker\obj\Debug\net5.0-windows\CyberHacker.csproj.CoreCompileInputs.cache
+D:\Visual Studio Repos\Cyber\CyberHacker\obj\Debug\net5.0-windows\CyberHacker.csproj.CopyComplete
+D:\Visual Studio Repos\Cyber\CyberHacker\obj\Debug\net5.0-windows\CyberHacker.genruntimeconfig.cache
+D:\Visual Studio Repos\Cyber\CyberHacker\bin\Debug\net5.0-windows\HookNet.exe
+D:\Visual Studio Repos\Cyber\CyberHacker\bin\Debug\net5.0-windows\HookNet.dll
+D:\Visual Studio Repos\Cyber\CyberHacker\bin\Debug\net5.0-windows\HookNet.pdb
+D:\Visual Studio Repos\CyberNet\CyberHacker\bin\Debug\net5.0-windows\HookNet.exe
+D:\Visual Studio Repos\CyberNet\CyberHacker\bin\Debug\net5.0-windows\AutoItX3.dll
+D:\Visual Studio Repos\CyberNet\CyberHacker\bin\Debug\net5.0-windows\CyberHacker.exe
+D:\Visual Studio Repos\CyberNet\CyberHacker\bin\Debug\net5.0-windows\Properties\BufferResources.resx
+D:\Visual Studio Repos\CyberNet\CyberHacker\bin\Debug\net5.0-windows\Properties\DebugResources.resx
+D:\Visual Studio Repos\CyberNet\CyberHacker\bin\Debug\net5.0-windows\Properties\MatrixResources.resx
+D:\Visual Studio Repos\CyberNet\CyberHacker\bin\Debug\net5.0-windows\Properties\SequenceResources.resx
+D:\Visual Studio Repos\CyberNet\CyberHacker\bin\Debug\net5.0-windows\CyberHacker.deps.json
+D:\Visual Studio Repos\CyberNet\CyberHacker\bin\Debug\net5.0-windows\CyberHacker.runtimeconfig.json
+D:\Visual Studio Repos\CyberNet\CyberHacker\bin\Debug\net5.0-windows\CyberHacker.runtimeconfig.dev.json
+D:\Visual Studio Repos\CyberNet\CyberHacker\bin\Debug\net5.0-windows\CyberHacker.dll
+D:\Visual Studio Repos\CyberNet\CyberHacker\bin\Debug\net5.0-windows\ref\CyberHacker.dll
+D:\Visual Studio Repos\CyberNet\CyberHacker\bin\Debug\net5.0-windows\CyberHacker.pdb
+D:\Visual Studio Repos\CyberNet\CyberHacker\bin\Debug\net5.0-windows\AutoItX3.Assembly.dll
+D:\Visual Studio Repos\CyberNet\CyberHacker\bin\Debug\net5.0-windows\HookNet.dll
+D:\Visual Studio Repos\CyberNet\CyberHacker\bin\Debug\net5.0-windows\HookNet.pdb
+D:\Visual Studio Repos\CyberNet\CyberHacker\bin\Debug\net5.0-windows\AutoItX3.Assembly.xml
+D:\Visual Studio Repos\CyberNet\CyberHacker\obj\Debug\net5.0-windows\CyberHacker.Properties.BufferResources.resources
+D:\Visual Studio Repos\CyberNet\CyberHacker\obj\Debug\net5.0-windows\CyberHacker.Properties.DebugResources.resources
+D:\Visual Studio Repos\CyberNet\CyberHacker\obj\Debug\net5.0-windows\CyberHacker.Properties.MatrixResources.resources
+D:\Visual Studio Repos\CyberNet\CyberHacker\obj\Debug\net5.0-windows\CyberHacker.Properties.SequenceResources.resources
+D:\Visual Studio Repos\CyberNet\CyberHacker\obj\Debug\net5.0-windows\CyberHacker.csproj.GenerateResource.cache
+D:\Visual Studio Repos\CyberNet\CyberHacker\obj\Debug\net5.0-windows\CyberHacker.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Repos\CyberNet\CyberHacker\obj\Debug\net5.0-windows\CyberHacker.AssemblyInfoInputs.cache
+D:\Visual Studio Repos\CyberNet\CyberHacker\obj\Debug\net5.0-windows\CyberHacker.AssemblyInfo.cs
+D:\Visual Studio Repos\CyberNet\CyberHacker\obj\Debug\net5.0-windows\CyberHacker.csproj.CoreCompileInputs.cache
+D:\Visual Studio Repos\CyberNet\CyberHacker\obj\Debug\net5.0-windows\CyberHacker.csproj.CopyComplete
+D:\Visual Studio Repos\CyberNet\CyberHacker\obj\Debug\net5.0-windows\CyberHacker.dll
+D:\Visual Studio Repos\CyberNet\CyberHacker\obj\Debug\net5.0-windows\ref\CyberHacker.dll
+D:\Visual Studio Repos\CyberNet\CyberHacker\obj\Debug\net5.0-windows\CyberHacker.pdb
+D:\Visual Studio Repos\CyberNet\CyberHacker\obj\Debug\net5.0-windows\CyberHacker.genruntimeconfig.cache
+D:\Visual Studio Repos\CyberNet\CyberHacker\bin\Debug\net5.0-windows\HookNet.deps.json
+D:\Visual Studio Repos\CyberNet\CyberHacker\bin\Debug\net5.0-windows\HookNet.runtimeconfig.json
+D:\Visual Studio Repos\CyberNet\CyberHacker\bin\Debug\net5.0-windows\HookNet.runtimeconfig.dev.json
+D:\Visual Studio Repos\CyberNet\CyberHacker\obj\Debug\net5.0-windows\CyberHacker.csproj.AssemblyReference.cache

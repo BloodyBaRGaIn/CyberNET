@@ -1,0 +1,2 @@
+D:\Visual Studio Repos\Cyber\HookNet\bin\Release\net5.0-windows\publish\HookNet.pdb
+D:\Visual Studio Repos\Cyber\HookNet\bin\Release\net5.0-windows\publish\HookNet.exe

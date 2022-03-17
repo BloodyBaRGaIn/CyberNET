@@ -1,0 +1,10 @@
+D:\repos\CyberHacker\bin\Release\net5.0-windows\publish\CyberHacker.pdb
+D:\repos\CyberHacker\bin\Release\net5.0-windows\publish\Properties\BufferResources.resx
+D:\repos\CyberHacker\bin\Release\net5.0-windows\publish\Properties\DebugResources.resx
+D:\repos\CyberHacker\bin\Release\net5.0-windows\publish\Properties\MatrixResources.resx
+D:\repos\CyberHacker\bin\Release\net5.0-windows\publish\Properties\SequenceResources.resx
+D:\repos\CyberHacker\bin\Release\net5.0-windows\publish\AutoItX3.dll
+D:\repos\CyberHacker\bin\Release\net5.0-windows\publish\KeyHook.pdb
+D:\repos\CyberHacker\bin\Release\net5.0-windows\publish\KeyHook.exe.config
+D:\repos\CyberHacker\bin\Release\net5.0-windows\publish\AutoItX3.Assembly.xml
+D:\repos\CyberHacker\bin\Release\net5.0-windows\publish\CyberHacker.exe

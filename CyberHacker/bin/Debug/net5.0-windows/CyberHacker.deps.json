@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CyberHacker/1.0.0": {
+        "dependencies": {
+          "HookNet": "1.0.0",
+          "AutoItX3.Assembly": "3.0.0.0"
+        },
+        "runtime": {
+          "CyberHacker.dll": {}
+        }
+      },
+      "HookNet/1.0.0": {
+        "runtime": {
+          "HookNet.dll": {}
+        }
+      },
+      "AutoItX3.Assembly/3.0.0.0": {
+        "runtime": {
+          "AutoItX3.Assembly.dll": {
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.3.14.5"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CyberHacker/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HookNet/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AutoItX3.Assembly/3.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

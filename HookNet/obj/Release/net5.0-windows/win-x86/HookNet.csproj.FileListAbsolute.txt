@@ -1,0 +1,15 @@
+D:\Visual Studio Repos\Cyber\HookNet\bin\Release\net5.0-windows\win-x86\HookNet.exe
+D:\Visual Studio Repos\Cyber\HookNet\bin\Release\net5.0-windows\win-x86\HookNet.deps.json
+D:\Visual Studio Repos\Cyber\HookNet\bin\Release\net5.0-windows\win-x86\HookNet.runtimeconfig.json
+D:\Visual Studio Repos\Cyber\HookNet\bin\Release\net5.0-windows\win-x86\HookNet.runtimeconfig.dev.json
+D:\Visual Studio Repos\Cyber\HookNet\bin\Release\net5.0-windows\win-x86\HookNet.dll
+D:\Visual Studio Repos\Cyber\HookNet\bin\Release\net5.0-windows\win-x86\ref\HookNet.dll
+D:\Visual Studio Repos\Cyber\HookNet\bin\Release\net5.0-windows\win-x86\HookNet.pdb
+D:\Visual Studio Repos\Cyber\HookNet\obj\Release\net5.0-windows\win-x86\HookNet.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Repos\Cyber\HookNet\obj\Release\net5.0-windows\win-x86\HookNet.AssemblyInfoInputs.cache
+D:\Visual Studio Repos\Cyber\HookNet\obj\Release\net5.0-windows\win-x86\HookNet.AssemblyInfo.cs
+D:\Visual Studio Repos\Cyber\HookNet\obj\Release\net5.0-windows\win-x86\HookNet.csproj.CoreCompileInputs.cache
+D:\Visual Studio Repos\Cyber\HookNet\obj\Release\net5.0-windows\win-x86\HookNet.dll
+D:\Visual Studio Repos\Cyber\HookNet\obj\Release\net5.0-windows\win-x86\ref\HookNet.dll
+D:\Visual Studio Repos\Cyber\HookNet\obj\Release\net5.0-windows\win-x86\HookNet.pdb
+D:\Visual Studio Repos\Cyber\HookNet\obj\Release\net5.0-windows\win-x86\HookNet.genruntimeconfig.cache
